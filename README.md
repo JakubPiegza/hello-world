@@ -1,3 +1,3 @@
-### hello-world
+### Test
 Pierwszy projekt
 # Dodawanie instrukcji
