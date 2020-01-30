@@ -3,6 +3,8 @@
 <span id="id">rewdfs</span>
 <font color="green"> asasdf </font>
 # Dodawanie instrukcji
-fddfgfdgg ```diff 
+fddfgfdgg 
+```diff 
 - adsf
-``` gfdgdfgdfgfdg
+``` 
+gfdgdfgdfgfdg
