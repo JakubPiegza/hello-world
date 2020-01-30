@@ -1,3 +1,3 @@
 ### Pierwszy projekt
-<font style="red">rewdfs</font>
+<font color="red">rewdfs</font>
 # Dodawanie instrukcji
