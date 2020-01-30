@@ -1,1 +1,1 @@
-<span style=“color:green;”> text goes here</span>
+<span style='color:green;'> text goes here</span>
