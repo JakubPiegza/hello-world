@@ -1,5 +1,9 @@
 ### Pierwszy projekt
-<span style="color: red">rewdfs</span>
+<style>
+#id{
+  color: red;
+  }
+</style>
+<span id="id">rewdfs</span>
 <font color="green">asasdf</font>
-- erwrewr
 # Dodawanie instrukcji
