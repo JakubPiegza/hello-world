@@ -1,5 +1,8 @@
 ### Pierwszy projekt
 <div class="text-red">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+  This text is purple
+  <div class="text-blue mb-2">
+  .text-blue on white
+</div>
 </div>
 
