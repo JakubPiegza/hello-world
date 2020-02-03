@@ -1,2 +1,1 @@
-the script open the ```.ps1``` file and enter the correct information: Username of the admin,the site, where you want to remove the content type and the content type id. 
-
+[Get all properties of all content types in a SharePoint site](https://gallery.technet.microsoft.com/Get-all-properties-of-all-3a9c5c4b) - click [here](https://gallery.technet.microsoft.com/Get-all-properties-of-all-3a9c5c4b/file/137804/1/ContentTypesWithoutPSObjectWithoutEXtraProperties.ps1) for direct download
