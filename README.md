@@ -1,2 +1,1 @@
-podstawa
-sssssssssssssssssssssssssssssssssssssss
+test wielu plikow pr md
