@@ -1,1 +1,1 @@
-to to saamo
+to to saamo dokłądnie
